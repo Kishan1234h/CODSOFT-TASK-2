@@ -36,3 +36,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or feedback, feel free to reach out at (kishankumar707047@gmail.com).  
 This README serves as an engaging and comprehensive introduction to your project! 
+ ## Output
+![Screenshot (43)](https://github.com/user-attachments/assets/3997e5f0-cae5-41af-8031-8cf8f32f08c1)
