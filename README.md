@@ -5,10 +5,10 @@ ID- CS24NY355814
 Domain- Java Programming
 Duration- 15 December to 15 January 2025
 
-Overview of the Project
+ ## Overview of the Project
 
 Project- 📊 Student Grade Calculator  
-Objective
+## Objective
 A **Student Grade Calculator** is a simple application that calculates a student's grade based on input scores. It’s a great tool for teachers, students, or anyone needing to evaluate grades quickly and efficiently.  
 
 ## 🚀 Features  
